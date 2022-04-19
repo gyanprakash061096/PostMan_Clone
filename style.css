@@ -1,0 +1,9 @@
+body{
+    background-image: url(/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#parentbox{
+    background: rgb(2,0,36);
+    background: linear-gradient(342deg, rgb(255, 255, 255) 0%, rgb(255, 145, 112) 29%, rgb(41, 209, 243) 100%);
+}
